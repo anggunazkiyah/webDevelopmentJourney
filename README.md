@@ -1,1 +1,1 @@
-# webDevelopmentJourney
+# Web Development Journey
